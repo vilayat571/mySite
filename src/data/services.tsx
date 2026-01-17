@@ -1,0 +1,58 @@
+  export const services = [
+    {
+      id: 1,
+      subtitle: 'Designing Seamless Journeys',
+      title: 'UI/UX Design',
+      description: 'Creating intuitive and visually stunning interfaces that enhance user satisfaction. I focus on understanding user behavior to deliver experiences that are both beautiful and functional.',
+      features: [
+        'User Research & Personas',
+        'Wireframing & Prototyping',
+        'Interactive Interface Design',
+        'Usability Testing & Analytics',
+      ],
+      mockupLetter: 'UD',
+      gradient: 'from-orange-400 to-yellow-500',
+    },
+    {
+      id: 2,
+      subtitle: 'Building Functional Solutions',
+      title: 'Web Development',
+      description: 'Developing high-performance, scalable web applications using modern technologies. From responsive frontends to robust backends, I build solutions that work seamlessly across all devices.',
+      features: [
+        'React & Next.js Development',
+        'RESTful API Integration',
+        'Database Design & Management',
+        'Responsive & Mobile-First Design',
+      ],
+      mockupLetter: 'WD',
+      gradient: 'from-orange-400 to-yellow-500',
+    },
+    {
+      id: 3,
+      subtitle: 'Optimizing Digital Presence',
+      title: 'SEO & Performance',
+      description: 'Enhancing your website\'s visibility and speed to ensure maximum reach and user engagement. I implement best practices for search engine optimization and performance optimization.',
+      features: [
+        'Technical SEO Audits',
+        'Page Speed Optimization',
+        'Core Web Vitals Improvement',
+        'Schema Markup Implementation',
+      ],
+      mockupLetter: 'SE',
+      gradient: 'from-orange-400 to-yellow-500',
+    },
+    {
+      id: 4,
+      subtitle: 'Creating Visual Excellence',
+      title: 'Web Design',
+      description: 'Crafting modern, engaging web designs that capture attention and communicate your brand message effectively. Every design is tailored to create memorable user experiences.',
+      features: [
+        'Custom Visual Design Systems',
+        'Brand Identity Integration',
+        'Responsive Layout Design',
+        'Accessibility Compliance',
+      ],
+      mockupLetter: 'WD',
+      gradient: 'from-orange-400 to-yellow-500',
+    },
+  ];
