@@ -102,7 +102,7 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiGithub,
     },
     {
-      id: 4,
+      id: 11,
       title: "Aqsa News",
       description:
         "News portal with advanced search functionality, API throttling, and content management system.",
