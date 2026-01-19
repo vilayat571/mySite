@@ -17,7 +17,7 @@ const Logobar = ({
           ${isMenuOpen ? "xl:px-10 lg:px-10 md:px-0 sm:px-4" : "xl:px-10 lg:px-10 md:px-0 sm:px-4"}
           py-3 bg-[#0a0a0a] xl:w-2/5 lg:w-2/5 md:w-full sm:w-full`}
     >
-      <div className="text-white text-xl font-bold">hamzah.</div>
+      <Link to={'/'} className="text-white text-xl font-bold">hamzah.</Link>
 
       <div className="flex items-center gap-4">
         {/* Let's Chat Button */}
