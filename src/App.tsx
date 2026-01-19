@@ -9,7 +9,7 @@ import Testimonials from "./components/Testimontials";
 
 const App = () => {
   return (
-    <div className="pt-8">
+    <div>
       <Navbar />
       <Intro /> 
       <About />

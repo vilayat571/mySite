@@ -31,3 +31,8 @@ body {
 .name {
   font-family: "InterMedium";
 }
+
+
+html {
+  scroll-behavior: smooth;
+}

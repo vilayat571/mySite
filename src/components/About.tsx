@@ -2,7 +2,7 @@ import { FaGraduationCap, FaCode, FaGlobe, FaEnvelope, FaPhone } from 'react-ico
 
 export default function About() {
   return (
-    <div className="w-full flex xl:mt-28 lg:mt-28 md:mt-20 sm:mt-16 mt-12 justify-center px-4 relative">
+    <div id='about' className="w-full flex xl:mt-28 lg:mt-28 md:mt-20 sm:mt-16 mt-12 justify-center px-4 relative">
       {/* Background Gradient Effects */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-0 right-1/4 w-96 h-96 bg-yellow-500/5 rounded-full blur-3xl" />

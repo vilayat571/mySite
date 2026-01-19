@@ -120,7 +120,7 @@ export default function FeaturedProjects() {
     : projects.filter(p => p.type === activeFilter);
 
   return (
-    <div className="min-h-screen bg-[#000000] text-white px-8 py-16 mt-20">
+    <div id='projects' className="min-h-screen bg-[#000000] text-white px-8 py-16 mt-20">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="flex flex-col lg:flex-row items-start justify-between mb-12 gap-8">

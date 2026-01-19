@@ -17,7 +17,7 @@ const toggleService = (id: Service["id"]) => {
 };
 
   return (
-    <div className="w-full flex items-center px-8 justify-between xl:mt-56 lg:mt-56 md:mt-36 sm:mt-36">
+    <div id="services" className="w-full flex items-center px-8 justify-between xl:mt-56 lg:mt-56 md:mt-36 sm:mt-36">
       <div className="xl:w-3/4 lg:w-3/4 md:w-full sm:w-full mx-auto">
         {/* Header */}
         <div className="flex xl:flex-row lg:flex-row md:flex-col gap-6 sm:flex-col items-start justify-between mb-16">
