@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BiArrowFromBottom, BiArrowFromTop } from "react-icons/bi";
+import { BiArrowFromBottom } from "react-icons/bi";
 
  const Totop = () => {
   const [visible, setVisible] = useState(false);
