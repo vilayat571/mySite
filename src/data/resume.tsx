@@ -89,8 +89,8 @@ export const jobs = [
     ],
   },
   {
-    title: "Freelance Web Developer",
-    company: "Self Employeed",
+    title: "Web Developer",
+    company: "Coder",
     flag: "🇦🇿",
     location: "Baku, Azerbaijan",
     type: "Part-Time",
@@ -129,5 +129,33 @@ export const jobs = [
       "Contributed to open-source projects like Saleor.",
       "Continuously learned new technologies including Next.js, React.js, and REST APIs.",
     ],
+  },
+];
+
+export const education = [
+  {
+    institution: "WCU",
+    score: "75 / 100",
+  },
+  {
+    institution: "Admision Score",
+    score: "601 / 700",
+  },
+  {
+    institution: "ASOIU",
+    score: "81 / 100",
+  },
+];
+
+export const languages = [
+  {
+    name: "IELTS",
+    score: "6.5",
+    total: "Overall Band Score",
+  },
+  {
+    name: "Cambridge Linguaskill",
+    score: "171 / 200",
+    total: "Business English",
   },
 ];
