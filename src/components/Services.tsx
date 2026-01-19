@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "../assets/styles/services.css";
 import ServicesHeader from "../atoms/Services/ServicesHeader";
-import ServiceGrid from "./ServiceGrid";
+import ServiceGrid from "../atoms/Services/ServiceGrid";
 export default function Services() {
   type Service = {
     id: number;
@@ -19,7 +19,7 @@ export default function Services() {
   return (
     <div
       id="services"
-      className="w-full flex items-center px-8 justify-between xl:mt-56 lg:mt-56 md:mt-36 sm:mt-36"
+      className="w-full flex items-center px-8 justify-between mt-16"
     >
       <div className="xl:w-3/4 lg:w-3/4 md:w-full sm:w-full mx-auto">
         <ServicesHeader />

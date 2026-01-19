@@ -1,5 +1,5 @@
 import { HiOutlineArrowUpRight } from "react-icons/hi2";
-import { services } from "../data/services";
+import { services } from "../../data/services";
 
 const ServiceGrid = ({
   expandedService,
