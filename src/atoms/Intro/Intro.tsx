@@ -1,7 +1,7 @@
 import "../assets/styles/intro.css";
 import BgEffects from "./BgEffects";
 import CTAbuttons from "./CTAbuttons";
-import Infointro from "./Infointro";
+import Infointro from "./About/Infointro";
 import ResponsiveSkillGrid from "./ResponsiveSkillGrid";
 const Intro = () => {
   return (

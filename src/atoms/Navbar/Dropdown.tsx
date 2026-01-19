@@ -1,5 +1,5 @@
-import MenuItems from "./MenuItems";
 import SocialMedia from "./SocialMedia";
+import MenuItems from "./MenuItems";
 
 const Dropdown = ({
   toggleMenu,
