@@ -1,6 +1,7 @@
 import Footer from "./atoms/Footer";
-import Intro from "./atoms/Intro";
-import Navbar from "./atoms/Navbar";
+import Intro from "./atoms/Intro/Intro";
+import Navbar from "./atoms/Navbar/Navbar";
+
 import About from "./components/About";
 import Projects from "./components/Projects";
 import ResumePage from "./components/ResumePage";
