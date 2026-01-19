@@ -3,10 +3,10 @@ const StatsBar = () => {
   return (
         <div className="w-full mt-12 grid grid-cols-2 md:grid-cols-4 gap-4">
           {[
-            { number: "3+", label: "Years Experience" },
+            { number: "2+", label: "Years Experience" },
             { number: "15+", label: "Projects Completed" },
-            { number: "10+", label: "Happy Clients" },
-            { number: "100%", label: "Success Rate" },
+            { number: "10+", label: "Satisified Clients" },
+            { number: "90%", label: "Success Rate" },
           ].map((stat, index) => (
             <div
               key={index}

@@ -1,8 +1,9 @@
-import "../assets/styles/intro.css";
+import Infointro from "../About/Infointro";
+import "../../assets/styles/intro.css";
 import BgEffects from "./BgEffects";
 import CTAbuttons from "./CTAbuttons";
-import Infointro from "./About/Infointro";
 import ResponsiveSkillGrid from "./ResponsiveSkillGrid";
+
 const Intro = () => {
   return (
     <div className="w-full flex justify-center items-center xl:mt-28 lg:mt-32 md:mt-24 sm:mt-16 mt-12 px-4 relative">
