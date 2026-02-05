@@ -27,19 +27,42 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       type: "website",
       icon: FiGlobe,
     },
-    {
-      id: 3,
-      title: "AVIAN Group",
+        {
+      id: 8,
+      title: "Raja Restaurants",
       description:
-        "Full-stack web application with responsive frontend for Call Center Company.",
-      tags: ["Next.js", "TypeScript", "MongoDB", "Figma"],
-      link: "https://aviangroupco.com/",
+        "Comprehensive restaurant management platform with online ordering and admin dashboard design.",
+      image:
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop",
+      tags: ["Figma", "UI/UX", "React", "Node.js"],
+      link: "https://www.rajarestaurant.food",
       type: "website",
-      icon: FiGlobe,
+      icon: FiLayout,
+    },
+
+       {
+      id: 4,
+      title: "Fact News",
+      description:
+        "Startup platform connecting job seekers with employers through video interviews and skill assessments.",
+      tags: ["React.js", "Node.js", "MongoDB", "Typescript"],
+      link: "https://github.com/vilayat571/interviewslandWEB",
+      type: "website",
+      icon: FiGithub,
+    },
+           {
+      id: 5,
+      title: "Perfumer AZ",
+      description:
+        "Startup platform connecting job seekers with employers through video interviews and skill assessments.",
+      tags: ["React.js", "Node.js", "MongoDB", "Typescript"],
+      link: "https://www.perfumer.az/",
+      type: "website",
+      icon: FiGithub,
     },
     {
       id: 4,
-      title: "Güvən Finans",
+      title: "Guven Finans",
       description:
         "Financial services website design with loan calculator and modern UI components.",
       tags: ["Figma", "UI/UX", "Next", "Typescript", "Tailwind CSS"],
@@ -48,16 +71,7 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiLayout,
     },
 
-    {
-      id: 6,
-      title: "Interviewsland",
-      description:
-        "Startup platform connecting job seekers with employers through video interviews and skill assessments.",
-      tags: ["React.js", "Node.js", "MongoDB", "Typescript"],
-      link: "https://github.com/vilayat571/interviewslandWEB",
-      type: "github",
-      icon: FiGithub,
-    },
+ 
     {
       id: 7,
       title: "Chaykoff",
@@ -69,16 +83,14 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiLayout,
     },
     {
-      id: 8,
-      title: "Raja Restaurants",
+      id: 3,
+      title: "AVIAN Group",
       description:
-        "Comprehensive restaurant management platform with online ordering and admin dashboard design.",
-      image:
-        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop",
-      tags: ["Figma", "UI/UX", "React", "Node.js"],
-      link: "https://github.com/vilayat571/rajarestaurantWEB",
+        "Full-stack web application with responsive frontend for Call Center Company.",
+      tags: ["Next.js", "TypeScript", "MongoDB", "Figma"],
+      link: "https://aviangroupco.com/",
       type: "design",
-      icon: FiLayout,
+      icon: FiGlobe,
     },
     {
       id: 9,
@@ -101,14 +113,5 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       type: "github",
       icon: FiGithub,
     },
-    {
-      id: 11,
-      title: "Aqsa News",
-      description:
-        "News portal with advanced search functionality, API throttling, and content management system.",
-      tags: ["React", "Node.js", "MongoDB", "Figma"],
-      link: "https://github.com/aqsa-news/landing",
-      type: "github",
-      icon: FiGithub,
-    },
+
   ];
