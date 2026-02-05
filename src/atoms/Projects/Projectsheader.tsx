@@ -12,7 +12,7 @@ const Projectsheader = () => {
               </div>
   
               <a
-                href="#all-projects"
+                href="https://github.com/vilayat571"
                 className="inline-flex bg-yellow-500 hover:bg-yellow-600 text-black px-8 py-4 rounded-xl font-semibold transition items-center gap-2 group"
               >
                 Explore all Projects

@@ -1,5 +1,5 @@
 
-import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const projects = [
+import { FiGlobe, FiLayout } from "react-icons/fi";export  const projects = [
     {
       id: 1,
       title: "AzeSERT HALAL",
@@ -28,7 +28,7 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiGlobe,
     },
         {
-      id: 8,
+      id: 3,
       title: "Raja Restaurants",
       description:
         "Comprehensive restaurant management platform with online ordering and admin dashboard design.",
@@ -40,26 +40,6 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiLayout,
     },
 
-       {
-      id: 4,
-      title: "Fact News",
-      description:
-        "Startup platform connecting job seekers with employers through video interviews and skill assessments.",
-      tags: ["React.js", "Node.js", "MongoDB", "Typescript"],
-      link: "https://github.com/vilayat571/interviewslandWEB",
-      type: "website",
-      icon: FiGithub,
-    },
-           {
-      id: 5,
-      title: "Perfumer AZ",
-      description:
-        "Startup platform connecting job seekers with employers through video interviews and skill assessments.",
-      tags: ["React.js", "Node.js", "MongoDB", "Typescript"],
-      link: "https://www.perfumer.az/",
-      type: "website",
-      icon: FiGithub,
-    },
     {
       id: 4,
       title: "Guven Finans",
@@ -71,19 +51,8 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiLayout,
     },
 
- 
-    {
-      id: 7,
-      title: "Chaykoff",
-      description:
-        "Modern tea house branding and website design with elegant UI/UX elements.",
-      tags: ["Figma", "UI Design", "Branding"],
-      link: "https://www.figma.com/proto/CV4khuPt0ylDRBvAutrRmJ?page-id=0%3A1&node-id=0%3A1&fuid=1175397708667688429",
-      type: "design",
-      icon: FiLayout,
-    },
-    {
-      id: 3,
+   {
+      id: 5,
       title: "AVIAN Group",
       description:
         "Full-stack web application with responsive frontend for Call Center Company.",
@@ -93,7 +62,7 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       icon: FiGlobe,
     },
     {
-      id: 9,
+      id: 6,
       title: "SER Azerbaijan",
       description:
         "Website and web design for economic resources services company.",
@@ -102,16 +71,4 @@ import { FiGlobe, FiGithub, FiLayout } from "react-icons/fi";export  const proje
       type: "design",
       icon: FiLayout,
     },
-
-    {
-      id: 5,
-      title: "Kodaze",
-      description:
-        "CRM system and internal tools built with Next.js and modern web technologies.",
-      tags: ["Next.js", "Javascript", "SASS CSS", "Tailwind CSS"],
-      link: "https://github.com/vilayat571/kodazeWEB",
-      type: "github",
-      icon: FiGithub,
-    },
-
   ];
